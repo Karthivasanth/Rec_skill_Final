@@ -1,0 +1,1 @@
+web: gunicorn rec_skill.wsgi --log-file - 
